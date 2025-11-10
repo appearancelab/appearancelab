@@ -1,9 +1,9 @@
 ---
 ---
 
-# appearancelab's Website
+# Appearance Lab
 
-An engaging 1-3 sentence description of your lab.
+Research on visual perception at the Laboratoire de Sciences Cognitives et Psycholinguistique (LSCP), ENS-PSL.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We study visual perception.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/background.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/share.jpg"
   link="team"
   title="Our Team"
   text=text
