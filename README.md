@@ -5,6 +5,6 @@
 
   # appearancelab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[appearancelab.github.io/appearancelab](https://appearancelab.github.io/appearancelab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
