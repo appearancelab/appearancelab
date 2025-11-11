@@ -11,7 +11,7 @@ Appearance Lab.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" %}
+{% include list.html data="members" component="portrait" sort="order" %}
 
 ## Current Collaborators
 
