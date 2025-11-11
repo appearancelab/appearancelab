@@ -1,7 +1,7 @@
 ---
 name: Bilge Sayim
 image: images/photo.jpg
-role: pi
+role: principal-investigator
 order: 1
 affiliation: École Normale Supérieure
 links:
