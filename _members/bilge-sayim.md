@@ -3,7 +3,7 @@ name: Bilge Sayim
 image: images/photo.jpg
 role: pi
 order: 1
-affiliation: École Normale Supérieure / Laboratoire de Sciences Cognitives et Psycholinguistique (LSCP)
+affiliation: École Normale Supérieure
 links:
   email: bilge.sayim@ens.psl.eu
   scholar: https://scholar.google.com/citations?user=iPSHF0oUdkcH&hl=en
