@@ -2,7 +2,7 @@
 name: Nicolas Slaski
 image: images/photo.jpg
 role: phd
-order: 4
+order: 3
 affiliation: Université de Lille
 links:
   email: 
