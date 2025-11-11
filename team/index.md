@@ -13,10 +13,10 @@ Appearance Lab.
 
 {% include list.html data="members" component="portrait" sort="order" %}
 
-## Current Collaborators
+## Alumni
 
 Empty for now
 
-## Past Collaborators
+##  Current and Past Collaborators
 
 Empty for now
