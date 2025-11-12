@@ -26,7 +26,7 @@ We study visual perception.
 
 {%
   include feature.html
-  image="images/background.jpg"
+  image="images/logo_nobo.png"
   link="research"
   title="Our Research"
   text=text
