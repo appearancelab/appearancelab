@@ -1,6 +1,6 @@
 ---
 name: Yunus Emre Türkmen
-image: images/photo.jpg
+image: images/profile_emre.jpg
 role: phd
 order: 4
 affiliation: École Normale Supérieure
