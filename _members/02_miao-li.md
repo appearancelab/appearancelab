@@ -9,4 +9,4 @@ links:
   scholar: 
   orcid: 
 ---
-Miao Li is a Postdoctoral Researcher at the Appearance Lab.
+Miao is a postdoctoral researcher at PALAB. Her research investigates how the human visual brain organizes and processes complex scenes, with a focus on numerosity perception, visual crowding, and redundancy masking. She received her joint Ph.D. degree in 2023 from the University of Lille and KU Leuven, under the supervision of Prof. Bilge Sayim and Prof. Bert Reynvoet. 
