@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: Appearance Lab
+title: The Psychophysics of Appearance Laboratory
 subtitle: 
 description: Research on visual perception at the Laboratoire de Sciences Cognitives et Psycholinguistique (LSCP), ENS-PSL.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/logo_nobo.png
+footer: images/logo_nobo.png
 proofer: false
 
 # site social media and other links
