@@ -1,7 +1,7 @@
 ---
 ---
 
-# Appearance Lab
+# The Psychophysics of Appearance Laboratory
 
 Research on visual perception at the Laboratoire de Sciences Cognitives et Psycholinguistique (LSCP), ENS-PSL.
 
