@@ -1,5 +1,9 @@
 ---
+title: Home
+nav:
+  order: 0
 ---
+
 
 # The Psychophysics of Appearance Laboratory
 
