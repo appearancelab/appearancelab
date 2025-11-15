@@ -3,7 +3,7 @@ name: Bilge Sayim
 image: images/photo.jpg
 role: principal-investigator
 order: 1
-affiliation: École Normale Supérieure
+affiliation: 
 links:
   email: bilge.sayim@ens.psl.eu
   scholar: https://scholar.google.com/citations?user=iPSHF0oUdkcH&hl=en
