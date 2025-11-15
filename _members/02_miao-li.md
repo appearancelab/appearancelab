@@ -3,7 +3,7 @@ name: Miao Li
 image: images/miao_profile_large.jpg
 role: postdoc
 order: 2
-affiliation: École Normale Supérieure
+affiliation:
 links:
   email: 
   scholar: 
