@@ -6,9 +6,6 @@ nav_exclude: true
 
 # Articles
 
-Below is a list of our published scientific work.
-
-
 ## 2024
 
 <a href="https://www.nature.com/articles/s41598-024-58605-7" target="_blank">Alp, N., Lale, G., Saglam, C. & Sayim, B. (2024). The effect of processing partial information in dynamic face perception. *Scientific Reports*.</a>
