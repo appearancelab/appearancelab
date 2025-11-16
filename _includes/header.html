@@ -27,7 +27,7 @@
       </span>
     {% endif %}
     {% if site.logo-text != false %}
-      <span class="title-text" data-tooltip="Home">
+      <span class="title-text">
         {% if site.title and site.show-title != false %}
           <span class="title">{{ site.title }}</span>
         {% endif %}
@@ -49,10 +49,7 @@
       {% assign has_children = page.nav.children %}
       {% if has_children %}
         <div class="nav-item dropdown">
-          <span
-            class="nav-link"
-            data-tooltip="{{ page.nav.tooltip | xml_escape }}"
-          >
+          <span class="nav-link">
             {{ page.title }}
           </span>
           <div class="dropdown-menu">
@@ -60,9 +57,6 @@
               <a
                 class="dropdown-item"
                 href="{{ child.url | relative_url | uri_escape }}"
-                {% if child.tooltip %}
-                  data-tooltip="{{ child.tooltip | xml_escape }}"
-                {% endif %}
               >
                 {{ child.title }}
               </a>
@@ -72,7 +66,6 @@
       {% else %}
         <a
           href="{{ page.dir | relative_url | uri_escape }}"
-          data-tooltip="{{ page.nav.tooltip | xml_escape }}"
         >
           {{ page.title }}
         </a>
