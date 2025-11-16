@@ -2,7 +2,6 @@
 title: About
 nav:
   order: 1
-  tooltip: About the Lab 
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}About
