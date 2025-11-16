@@ -1,8 +1,6 @@
 ---
-title: Publications
-nav:
-  order: 3
-  tooltip: Publications
+title: Articles
+nav_exclude: true
 ---
 
 # Publications
