@@ -11,3 +11,7 @@ nav:
       url: /publications/abstracts/
       tooltip: "Conference abstracts"
 ---
+
+# Publications
+
+Here you can find our published work, including journal articles and conference abstracts.
