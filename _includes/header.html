@@ -46,7 +46,30 @@
       | sort: "nav.order"
     %}
     {% for page in pages %}
-      {% if page.nav %}
+      {% assign has_children = page.nav.children %}
+      {% if has_children %}
+        <div class="nav-item dropdown">
+          <span
+            class="nav-link"
+            data-tooltip="{{ page.nav.tooltip | xml_escape }}"
+          >
+            {{ page.title }}
+          </span>
+          <div class="dropdown-menu">
+            {% for child in page.nav.children %}
+              <a
+                class="dropdown-item"
+                href="{{ child.url | relative_url | uri_escape }}"
+                {% if child.tooltip %}
+                  data-tooltip="{{ child.tooltip | xml_escape }}"
+                {% endif %}
+              >
+                {{ child.title }}
+              </a>
+            {% endfor %}
+          </div>
+        </div>
+      {% else %}
         <a
           href="{{ page.dir | relative_url | uri_escape }}"
           data-tooltip="{{ page.nav.tooltip | xml_escape }}"
