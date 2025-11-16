@@ -163,8 +163,8 @@ header[data-big] .subtitle {
   position: absolute;
   top: 100%;
   left: 0;
-  margin-top: 5px;
-  padding: 8px 0;
+  margin-top: 0px;
+  padding: 10px 0;
   min-width: 180px;
   background: var(--background-alt);
   box-shadow: var(--shadow);
