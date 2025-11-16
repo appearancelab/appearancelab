@@ -1,13 +1,13 @@
 ---
 title: Articles
+permalink: /publications/articles/
 nav_exclude: true
 ---
 
-# Publications
+# Articles
 
 Below is a list of our published scientific work.
 
----
 
 ## 2024
 
