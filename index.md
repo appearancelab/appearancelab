@@ -7,7 +7,7 @@ nav:
 
 # The Psychophysics of Appearance Laboratory
 
-Research on visual perception at the Laboratoire de Sciences Cognitives et Psycholinguistique (LSCP), ENS-PSL.
+Investigating appearance and performance in vision and cognition. 
 
 {% include section.html %}
 
