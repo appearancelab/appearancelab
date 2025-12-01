@@ -6,8 +6,6 @@ nav:
 
 # TEAM
 
-Appearance Lab.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" sort="order" %}
