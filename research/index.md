@@ -4,8 +4,6 @@ nav:
   order: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}
-
 What are the mechanisms that generate our rich and stable visual world from the highly ambiguous and ever-changing light pattern falling on the retina? How do we segment, select, discard and compress information? How do interactions between prior experience, knowledge, biases and current input shape the perception of our environment and determine the scope of what we experience? Why do we experience the world the way we do?
 
  
