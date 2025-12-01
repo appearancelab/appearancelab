@@ -6,7 +6,7 @@ order: 5
 affiliation: 
 links:
   email: 
-  scholar: 
+  google-scholar: 
   orcid: 
 ---
 Bilge Kumdakci is an intern at the Appearance Lab.
