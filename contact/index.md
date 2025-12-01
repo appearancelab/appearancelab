@@ -4,73 +4,33 @@ nav:
   order: 6
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
-
-{% include section.html %}
+# Contact
 
 {% capture col1 %}
+### Address
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+École Normale Supérieure  
+Département d'Études Cognitives  
+Laboratoire de Sciences Cognitives et Psycholinguistique  
+29 Rue d'Ulm  
+75005 Paris, France  
 
+**Email**  
+[bilge.sayim@cnrs.fr](mailto:bilge.sayim@cnrs.fr)
 {% endcapture %}
 
 {% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
+<div style="width:100%; min-height:250px;">
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.669363891207!2d2.3419376156748847!3d48.843368009965975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671de0a4d5e6d%3A0x8b5d0fd2ffb5f3df!2s29%20Rue%20d'Ulm%2C%20Paris!5e0!3m2!1sen!2sfr!4v1713284600000"
+    width="100%" 
+    height="250" 
+    style="border:0;" 
+    allowfullscreen 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
