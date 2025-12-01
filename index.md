@@ -7,7 +7,9 @@ nav:
 
 # The Psychophysics of Appearance Laboratory
 
-Investigating appearance and performance in vision and cognition. 
+<p style="text-align:center;">
+  Investigating appearance and performance in vision and cognition.
+</p>
 
 {% include section.html %}
 
