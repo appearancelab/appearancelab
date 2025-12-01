@@ -1,6 +1,6 @@
 ---
 name: Bilge Sayim
-image: images/photo.jpg
+image: images/bilgesayim.jpeg
 role: principal-investigator
 order: 1
 affiliation: 
