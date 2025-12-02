@@ -14,11 +14,12 @@ nav:
 
 ## Highlights
 
-{%- comment -%}
-1) CURRENT PROJECTS
-{%- endcomment -%}
-{% capture text %}
 
+{%- comment -%}
+1) CURRENT PROJECTS — image left, text right
+{%- endcomment -%}
+
+{% capture text %}
 We investigate appearance and performance in a range of ongoing projects in vision and cognition.
 
 {%
@@ -29,7 +30,6 @@ We investigate appearance and performance in a range of ongoing projects in visi
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
@@ -37,17 +37,20 @@ We investigate appearance and performance in a range of ongoing projects in visi
   image="images/background 2.png"
   link="projects"
   title="Current Projects"
+  flip=false
   text=text
 %}
 
-{%- comment -%}
-2) PUBLICATIONS (ARTICLES + ABSTRACTS)
-{%- endcomment -%}
-{% capture text %}
 
+
+{%- comment -%}
+2) PUBLICATIONS — image right, text left
+{%- endcomment -%}
+
+{% capture text %}
 Read our peer-reviewed journal articles, conference contributions, and other publications from the lab.
 
-<div style="display:flex; justify-content:center; gap:30px; margin-top:20px; flex-wrap:wrap;">
+<div style="display:flex; justify-content:center; gap:40px; margin-top:20px; flex-wrap:wrap;">
 
   <div>
     {%
@@ -72,7 +75,6 @@ Read our peer-reviewed journal articles, conference contributions, and other pub
   </div>
 
 </div>
-
 {% endcapture %}
 
 {%
@@ -80,14 +82,17 @@ Read our peer-reviewed journal articles, conference contributions, and other pub
   image="images/background 1-1.png"
   link="publications/articles"
   title="Publications"
+  flip=true
   text=text
 %}
 
-{%- comment -%}
-3) TEAM
-{%- endcomment -%}
-{% capture text %}
 
+
+{%- comment -%}
+3) TEAM — image left, text right
+{%- endcomment -%}
+
+{% capture text %}
 Meet the members of the Psychophysics of Appearance Laboratory.
 
 {%
@@ -98,7 +103,6 @@ Meet the members of the Psychophysics of Appearance Laboratory.
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
@@ -106,5 +110,6 @@ Meet the members of the Psychophysics of Appearance Laboratory.
   image="images/logo_nobo.png"
   link="team"
   title="Our Team"
+  flip=false
   text=text
 %}
