@@ -47,23 +47,31 @@ We investigate appearance and performance in a range of ongoing projects in visi
 
 Read our peer-reviewed journal articles, conference contributions, and other publications from the lab.
 
-{%
-  include button.html
-  link="publications/articles"
-  text="See our published articles"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}<br>
+<div style="display:flex; justify-content:center; gap:30px; margin-top:20px; flex-wrap:wrap;">
 
-{%
-  include button.html
-  link="publications/abstracts"
-  text="See our published abstracts"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+  <div>
+    {%
+      include button.html
+      link="publications/articles"
+      text="See our published articles"
+      icon="fa-solid fa-arrow-right"
+      flip=true
+      style="bare"
+    %}
+  </div>
+
+  <div>
+    {%
+      include button.html
+      link="publications/abstracts"
+      text="See our published abstracts"
+      icon="fa-solid fa-arrow-right"
+      flip=true
+      style="bare"
+    %}
+  </div>
+
+</div>
 
 {% endcapture %}
 
@@ -72,7 +80,6 @@ Read our peer-reviewed journal articles, conference contributions, and other pub
   image="images/background 1-1.png"
   link="publications/articles"
   title="Publications"
-  flip=true
   text=text
 %}
 
