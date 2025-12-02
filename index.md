@@ -58,7 +58,7 @@ Read our peer-reviewed journal articles and manuscripts.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/background 1-1.png"
   link="publications/articles"
   title="Publications – Articles"
   flip=true
@@ -85,7 +85,7 @@ Explore our conference talks, posters, and other abstracts.
 
 {%
   include feature.html
-  image="images/share.jpg"
+  image="images/background 2.png"
   link="publications/abstracts"
   title="Publications – Abstracts"
   text=text
