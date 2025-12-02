@@ -4,7 +4,6 @@ nav:
   order: 0
 ---
 
-
 # The Psychophysics of Appearance Laboratory
 
 <p style="text-align:center;">
@@ -15,14 +14,16 @@ nav:
 
 ## Highlights
 
+{%- comment -%}
+1) Current projects kutucuğu
+{%- endcomment -%}
 {% capture text %}
-
-We study visual perception.
+Learn more about our ongoing projects.
 
 {%
   include button.html
-  link="research"
-  text="See our research"
+  link="projects"
+  text="See our current projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -33,19 +34,21 @@ We study visual perception.
 {%
   include feature.html
   image="images/logo_nobo.png"
-  link="research"
-  title="Our Research"
+  link="projects"
+  title="Current Projects"
   text=text
 %}
 
+{%- comment -%}
+2) Publications – Articles kutucuğu
+{%- endcomment -%}
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read our peer-reviewed journal articles and manuscripts.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications/articles"
+  text="Browse articles"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -56,21 +59,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="publications/articles"
+  title="Publications – Articles"
   flip=true
   style="bare"
   text=text
 %}
 
+{%- comment -%}
+3) Publications – Abstracts kutucuğu
+{%- endcomment -%}
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Explore our conference talks, posters, and other abstracts.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="publications/abstracts"
+  text="Browse abstracts"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -81,7 +86,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/share.jpg"
-  link="team"
-  title="Our Team"
+  link="publications/abstracts"
+  title="Publications – Abstracts"
   text=text
 %}
