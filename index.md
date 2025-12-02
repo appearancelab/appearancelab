@@ -15,10 +15,11 @@ nav:
 ## Highlights
 
 {%- comment -%}
-1) Current projects kutucuğu
+1) CURRENT PROJECTS
 {%- endcomment -%}
 {% capture text %}
-Learn more about our ongoing projects.
+
+We investigate appearance and performance in a range of ongoing projects in vision and cognition.
 
 {%
   include button.html
@@ -33,22 +34,32 @@ Learn more about our ongoing projects.
 
 {%
   include feature.html
-  image="images/logo_nobo.png"
+  image="images/background 2.png"
   link="projects"
   title="Current Projects"
   text=text
 %}
 
 {%- comment -%}
-2) Publications – Articles kutucuğu
+2) PUBLICATIONS (ARTICLES + ABSTRACTS)
 {%- endcomment -%}
 {% capture text %}
-Read our peer-reviewed journal articles and manuscripts.
+
+Read our peer-reviewed journal articles, conference contributions, and other publications from the lab.
 
 {%
   include button.html
   link="publications/articles"
-  text="Browse articles"
+  text="See our published articles"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}<br>
+
+{%
+  include button.html
+  link="publications/abstracts"
+  text="See our published abstracts"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -60,22 +71,22 @@ Read our peer-reviewed journal articles and manuscripts.
   include feature.html
   image="images/background 1-1.png"
   link="publications/articles"
-  title="Publications – Articles"
+  title="Publications"
   flip=true
-  style="bare"
   text=text
 %}
 
 {%- comment -%}
-3) Publications – Abstracts kutucuğu
+3) TEAM
 {%- endcomment -%}
 {% capture text %}
-Explore our conference talks, posters, and other abstracts.
+
+Meet the members of the Psychophysics of Appearance Laboratory.
 
 {%
   include button.html
-  link="publications/abstracts"
-  text="Browse abstracts"
+  link="team"
+  text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -85,8 +96,8 @@ Explore our conference talks, posters, and other abstracts.
 
 {%
   include feature.html
-  image="images/background 2.png"
-  link="publications/abstracts"
-  title="Publications – Abstracts"
+  image="images/logo_nobo.png"
+  link="team"
+  title="Our Team"
   text=text
 %}
