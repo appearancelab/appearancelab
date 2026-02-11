@@ -4,15 +4,11 @@ nav:
   order: 0
 ---
 
-# The Psychophysics of Appearance Laboratory
-
 <p style="text-align:center;">
   Investigating appearance and performance in vision and cognition.
 </p>
 
 {% include section.html %}
-
-## Highlights
 
 
 {%- comment -%}
