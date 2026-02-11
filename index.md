@@ -30,7 +30,7 @@ We investigate appearance and performance in a range of ongoing projects in visi
 
 {%
   include feature.html
-  image="images/RM illustration.jpg"
+  image="images/RM illustration-2.jpg"
   link="projects"
   title="Current Projects"
   flip=false
