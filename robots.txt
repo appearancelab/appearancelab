@@ -1,1 +1,1 @@
-Sitemap: https://appearancelab.github.io/appearancelab/sitemap.xml
+Sitemap: http://appearancelab.org/sitemap.xml
