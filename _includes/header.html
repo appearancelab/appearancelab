@@ -67,7 +67,7 @@
         </div>
 
       {% else %}
-        <a href="{{ page.url | relative_url | uri_escape }}">
+        <a href="{{ page.dir | relative_url | uri_escape }}">
           {{ page.title }}
         </a>
       {% endif %}
