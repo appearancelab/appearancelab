@@ -3,6 +3,12 @@ title: News
 nav:
   order: 5
 ---
+{% include button.html 
+   text="PALab Talks" 
+   link="blog/palab-talks" 
+   icon="fa-solid fa-microphone"
+   style="bare"
+%}
 
 **25–29/08/2024: We presented at ECVP 2024!**
 
