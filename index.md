@@ -4,7 +4,7 @@ nav:
   order: 0
 ---
 
-<p style="text-align:center;">
+<p style="text-align:center; font-size:1.5rem; font-weight:500; margin-top:20px;">
   Investigating appearance and performance in vision and cognition.
 </p>
 
