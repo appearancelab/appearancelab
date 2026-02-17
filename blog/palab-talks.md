@@ -1,5 +1,6 @@
 ---
 title: PALab Talks
+permalink: /blog/palab-talks/
 nav: false
 ---
 
