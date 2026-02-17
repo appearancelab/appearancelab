@@ -1,0 +1,10 @@
+/* --- NEWS NAV HOVER + ACTIVE FIX --- */
+
+.nav-item.dropdown > a.nav-link:hover,
+.nav-item.dropdown > a.nav-link:focus {
+  color: #6bbf59;
+}
+
+.nav-item.dropdown > a.nav-link.active {
+  color: #6bbf59;
+}
