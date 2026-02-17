@@ -160,8 +160,11 @@ nav:
 ### PhD Students
 
 - M.Sc. Ângela Gomes Tomaz  
-  *(PhD student, University of Lille, 2020–2023)*  
-
+  *(PhD student, University of Lille, 2020–2023)*
+  
+- M.Sc. Dandan Yu  
+  *(PhD student, University of Lille, 2019–2023)*
+  
 - M.Sc. Koen Rummens  
   *(PhD student, University of Bern, 2017–2022)*  
 
