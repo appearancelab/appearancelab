@@ -13,7 +13,7 @@ nav:
 {%- comment -%} 1 — ABOUT {%- endcomment -%}
 
 {% capture text %}
-Learn more about the Psychophysics of Appearance Laboratory, our mission, and research focus.
+Learn more about the Psychophysics of Appearance Laboratory, and research focus.
 
 {% include button.html
   link="about"
@@ -121,11 +121,11 @@ We investigate appearance and performance across a range of ongoing projects in 
 {%- comment -%} 5 — NEWS / TALKS {%- endcomment -%}
 
 {% capture text %}
-Follow lab news, conference presentations, invited talks, and PALab seminar series.
+Follow lab news, and conference presentations.
 
 {% include button.html
   link="blog"
-  text="See all news"
+  text="See news"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -135,7 +135,7 @@ Follow lab news, conference presentations, invited talks, and PALab seminar seri
 {% include feature.html
   image="images/background 2.png"
   link="blog"
-  title="News & Talks"
+  title="News"
   flip=false
   text=text
 %}
@@ -145,7 +145,7 @@ Follow lab news, conference presentations, invited talks, and PALab seminar seri
 {%- comment -%} 6 — CONTACT {%- endcomment -%}
 
 {% capture text %}
-Get in touch for collaborations, visits, student opportunities, or general inquiries.
+Get in touch with us.
 
 {% include button.html
   link="contact"
@@ -157,7 +157,7 @@ Get in touch for collaborations, visits, student opportunities, or general inqui
 {% endcapture %}
 
 {% include feature.html
-  image="images/background 2.png"
+  image="images/background 1-1.png"
   link="contact"
   title="Contact"
   flip=false
