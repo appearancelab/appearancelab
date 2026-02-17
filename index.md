@@ -10,14 +10,14 @@ nav:
 
 {% include section.html %}
 
-{%- comment -%} 1 — CURRENT PROJECTS {%- endcomment -%}
+{%- comment -%} 1 — ABOUT {%- endcomment -%}
 
 {% capture text %}
-We investigate appearance and performance across a range of ongoing projects in vision science and cognition.
+Learn more about the Psychophysics of Appearance Laboratory, our mission, and research focus.
 
 {% include button.html
-  link="projects"
-  text="Explore current projects"
+  link="about"
+  text="About the lab"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -25,16 +25,40 @@ We investigate appearance and performance across a range of ongoing projects in 
 {% endcapture %}
 
 {% include feature.html
-  image="images/RM illustration-2.jpg"
-  link="projects"
-  title="Current Projects"
+  image="images/background 1-1.png"
+  link="about"
+  title="About"
   flip=false
   text=text
 %}
 
 
 
-{%- comment -%} 2 — PUBLICATIONS {%- endcomment -%}
+{%- comment -%} 2 — TEAM {%- endcomment -%}
+
+{% capture text %}
+Meet the members of the Psychophysics of Appearance Laboratory.
+
+{% include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+{% endcapture %}
+
+{% include feature.html
+  image="images/logo_nobo.png"
+  link="team"
+  title="Our Team"
+  flip=false
+  text=text
+%}
+
+
+
+{%- comment -%} 3 — PUBLICATIONS {%- endcomment -%}
 
 {% capture text %}
 Read our peer-reviewed journal articles, conference contributions, and other publications from the lab.
@@ -70,14 +94,14 @@ Read our peer-reviewed journal articles, conference contributions, and other pub
 
 
 
-{%- comment -%} 3 — TEAM {%- endcomment -%}
+{%- comment -%} 4 — CURRENT PROJECTS {%- endcomment -%}
 
 {% capture text %}
-Meet the members of the Psychophysics of Appearance Laboratory.
+We investigate appearance and performance across a range of ongoing projects in vision science and cognition.
 
 {% include button.html
-  link="team"
-  text="Meet our team"
+  link="projects"
+  text="Explore current projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -85,16 +109,16 @@ Meet the members of the Psychophysics of Appearance Laboratory.
 {% endcapture %}
 
 {% include feature.html
-  image="images/logo_nobo.png"
-  link="team"
-  title="Our Team"
+  image="images/RM illustration-2.jpg"
+  link="projects"
+  title="Current Projects"
   flip=false
   text=text
 %}
 
 
 
-{%- comment -%} 4 — NEWS / TALKS {%- endcomment -%}
+{%- comment -%} 5 — NEWS / TALKS {%- endcomment -%}
 
 {% capture text %}
 Follow lab news, conference presentations, invited talks, and PALab seminar series.
@@ -112,30 +136,6 @@ Follow lab news, conference presentations, invited talks, and PALab seminar seri
   image="images/background 2.png"
   link="blog"
   title="News & Talks"
-  flip=false
-  text=text
-%}
-
-
-
-{%- comment -%} 5 — ABOUT {%- endcomment -%}
-
-{% capture text %}
-Learn more about the Psychophysics of Appearance Laboratory, our mission, and research focus.
-
-{% include button.html
-  link="about"
-  text="About the lab"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-
-{% include feature.html
-  image="images/background 1-1.png"
-  link="about"
-  title="About"
   flip=false
   text=text
 %}
