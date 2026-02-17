@@ -4,23 +4,18 @@ nav:
   order: 0
 ---
 
-<p style="text-align:center; font-size:1.6rem; font-weight:500; margin-top:10px; margin-bottom:40px;">
-Investigating appearance and performance in vision and cognition.
+<p style="text-align:center; font-size:1.5rem; font-weight:500; margin-top:20px;">
+  Investigating appearance and performance in vision and cognition.
 </p>
 
 {% include section.html %}
 
-
-
-{%- comment -%}
-1) CURRENT PROJECTS
-{%- endcomment -%}
+{%- comment -%} 1 — CURRENT PROJECTS {%- endcomment -%}
 
 {% capture text %}
-We investigate appearance and performance across a range of ongoing projects in vision science and cognition — from redundancy masking to perceptual organization and appearance.
+We investigate appearance and performance across a range of ongoing projects in vision science and cognition.
 
-{%
-  include button.html
+{% include button.html
   link="projects"
   text="Explore current projects"
   icon="fa-solid fa-arrow-right"
@@ -29,8 +24,7 @@ We investigate appearance and performance across a range of ongoing projects in 
 %}
 {% endcapture %}
 
-{%
-  include feature.html
+{% include feature.html
   image="images/RM illustration-2.jpg"
   link="projects"
   title="Current Projects"
@@ -40,60 +34,48 @@ We investigate appearance and performance across a range of ongoing projects in 
 
 
 
-{%- comment -%}
-2) PUBLICATIONS
-{%- endcomment -%}
+{%- comment -%} 2 — PUBLICATIONS {%- endcomment -%}
 
 {% capture text %}
-Read peer-reviewed journal articles, conference papers, and scientific outputs from the lab.
+Read our peer-reviewed journal articles, conference contributions, and other publications from the lab.
 
-<div style="display:flex; justify-content:center; gap:50px; margin-top:18px; flex-wrap:wrap;">
+<div style="display:flex; justify-content:center; gap:40px; margin-top:20px; flex-wrap:wrap;">
 
-  <div>
-    {%
-      include button.html
-      link="publications/articles"
-      text="Articles"
-      icon="fa-solid fa-arrow-right"
-      flip=true
-      style="bare"
-    %}
-  </div>
+{% include button.html
+  link="publications/articles"
+  text="Articles"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-  <div>
-    {%
-      include button.html
-      link="publications/abstracts"
-      text="Abstracts"
-      icon="fa-solid fa-arrow-right"
-      flip=true
-      style="bare"
-    %}
-  </div>
+{% include button.html
+  link="publications/abstracts"
+  text="Abstracts"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
 </div>
 {% endcapture %}
 
-{%
-  include feature.html
+{% include feature.html
   image="images/background 1-1.png"
-  link="publications"
+  link="publications/articles"
   title="Publications"
-  flip=true
+  flip=false
   text=text
 %}
 
 
 
-{%- comment -%}
-3) TEAM
-{%- endcomment -%}
+{%- comment -%} 3 — TEAM {%- endcomment -%}
 
 {% capture text %}
-Meet the researchers and collaborators of the Psychophysics of Appearance Laboratory.
+Meet the members of the Psychophysics of Appearance Laboratory.
 
-{%
-  include button.html
+{% include button.html
   link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
@@ -102,8 +84,7 @@ Meet the researchers and collaborators of the Psychophysics of Appearance Labora
 %}
 {% endcapture %}
 
-{%
-  include feature.html
+{% include feature.html
   image="images/logo_nobo.png"
   link="team"
   title="Our Team"
@@ -113,15 +94,12 @@ Meet the researchers and collaborators of the Psychophysics of Appearance Labora
 
 
 
-{%- comment -%}
-4) NEWS / TALKS (NEW SECTION — hub completeness)
-{%- endcomment -%}
+{%- comment -%} 4 — NEWS / TALKS {%- endcomment -%}
 
 {% capture text %}
 Follow lab news, conference presentations, invited talks, and PALab seminar series.
 
-{%
-  include button.html
+{% include button.html
   link="blog"
   text="See all news"
   icon="fa-solid fa-arrow-right"
@@ -130,11 +108,58 @@ Follow lab news, conference presentations, invited talks, and PALab seminar seri
 %}
 {% endcapture %}
 
-{%
-  include feature.html
+{% include feature.html
   image="images/background 2.png"
   link="blog"
   title="News & Talks"
+  flip=false
+  text=text
+%}
+
+
+
+{%- comment -%} 5 — ABOUT {%- endcomment -%}
+
+{% capture text %}
+Learn more about the Psychophysics of Appearance Laboratory, our mission, and research focus.
+
+{% include button.html
+  link="about"
+  text="About the lab"
+  icon="fa-solid fa-arrow-right"
   flip=true
+  style="bare"
+%}
+{% endcapture %}
+
+{% include feature.html
+  image="images/background 1-1.png"
+  link="about"
+  title="About"
+  flip=false
+  text=text
+%}
+
+
+
+{%- comment -%} 6 — CONTACT {%- endcomment -%}
+
+{% capture text %}
+Get in touch for collaborations, visits, student opportunities, or general inquiries.
+
+{% include button.html
+  link="contact"
+  text="Contact us"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+{% endcapture %}
+
+{% include feature.html
+  image="images/background 2.png"
+  link="contact"
+  title="Contact"
+  flip=false
   text=text
 %}
