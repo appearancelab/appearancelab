@@ -45,14 +45,28 @@
       | where_exp: "page", "page.nav"
       | sort: "nav.order"
     %}
+
     {% for page in pages %}
       {% assign has_children = page.nav.children %}
 
       {% if has_children %}
         <div class="nav-item dropdown">
-          <span class="nav-link">
-            {{ page.title }}
-          </span>
+
+          {%- comment -%}
+          ONLY News parent is clickable
+          {%- endcomment -%}
+          {% if page.title == "News" %}
+            <a
+              class="nav-link"
+              href="{{ page.url | relative_url | uri_escape }}"
+            >
+              {{ page.title }}
+            </a>
+          {% else %}
+            <span class="nav-link">
+              {{ page.title }}
+            </span>
+          {% endif %}
 
           <div class="dropdown-menu">
             {% for child in page.nav.children %}
@@ -64,10 +78,11 @@
               </a>
             {% endfor %}
           </div>
+
         </div>
 
       {% else %}
-        <a href="{{ page.dir | relative_url | uri_escape }}">
+        <a href="{{ page.url | relative_url | uri_escape }}">
           {{ page.title }}
         </a>
       {% endif %}
