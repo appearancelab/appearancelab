@@ -1,5 +1,6 @@
 ---
 title: News
+permalink: /blog/
 nav:
   order: 5
   children:
