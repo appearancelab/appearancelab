@@ -1,8 +1,10 @@
----
----
+/* --- NEWS NAV HOVER + ACTIVE FIX --- */
 
-main {
-  display: flex;
-  flex-direction: column;
-  flex-grow: 1;
+.nav-item.dropdown > a.nav-link:hover,
+.nav-item.dropdown > a.nav-link:focus {
+  color: #6bbf59;
+}
+
+.nav-item.dropdown > a.nav-link.active {
+  color: #6bbf59;
 }
