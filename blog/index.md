@@ -2,7 +2,7 @@
 title: News
 permalink: /blog/
 nav:
-  order: 5
+  order: 4
   children:
     - title: PALab Talks
       url: /blog/palab-talks/
