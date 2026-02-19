@@ -1,7 +1,7 @@
 ---
-title: Current Projects
+title: Projects
 nav:
-  order: 4
+  order: 3
 ---
 
 {% include section.html %}
