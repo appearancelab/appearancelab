@@ -11,7 +11,7 @@ nav:
 {% include section.html %}
 
 <div style="text-align:center; margin-bottom:50px;">
-  <img src="{{ 'images/background 1-1.png' | relative_url }}" 
+  <img src="{{ 'images/logo_nobo.png' | relative_url }}" 
        alt="Psychophysics of Appearance Laboratory"
        style="max-width:900px; width:100%; height:auto; border-radius:8px;">
 </div>
