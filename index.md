@@ -4,162 +4,17 @@ nav:
   order: 0
 ---
 
-<p style="text-align:center; font-size:1.5rem; font-weight:500; margin-top:20px;">
-  Investigating appearance and performance in vision and cognition.
-</p>
-
 {% include section.html %}
 
-{%- comment -%} 1 — ABOUT {%- endcomment -%}
-
-{% capture text %}
-Learn more about the Psychophysics of Appearance Laboratory, and research focus.
-
-{% include button.html
-  link="about"
-  text="About the lab"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-
 {% include feature.html
   image="images/background 1-1.png"
-  link="about"
-  title="About"
   flip=false
-  text=text
-%}
+  title="The Psychophysics of Appearance Laboratory"
+  text="
+What are the mechanisms that generate our rich and stable visual world from the highly ambiguous and ever-changing light pattern falling on the retina? How do we segment, select, discard and compress information? How do interactions between prior experience, knowledge, biases and current input shape the perception of our environment and determine the scope of what we experience? Why do we experience the world the way we do?
 
+In the Psychophysics of Appearance Lab, we investigate these and related questions, primarily in the realm of visual perception. For example, to understand information compression in the visual brain, we investigate 'redundancy masking', a phenomenon we recently discovered, in which the number of perceived items is systematically lower than the number of presented items, even when as few as three items are presented.
 
-
-{%- comment -%} 2 — TEAM {%- endcomment -%}
-
-{% capture text %}
-Meet the members of the Psychophysics of Appearance Laboratory.
-
-{% include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-
-{% include feature.html
-  image="images/logo_nobo.png"
-  link="team"
-  title="Our Team"
-  flip=false
-  text=text
-%}
-
-
-
-{%- comment -%} 3 — PUBLICATIONS {%- endcomment -%}
-
-{% capture text %}
-Read our peer-reviewed journal articles, conference contributions, and other publications from the lab.
-
-<div style="display:flex; justify-content:center; gap:40px; margin-top:20px; flex-wrap:wrap;">
-
-{% include button.html
-  link="publications/articles"
-  text="Articles"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% include button.html
-  link="publications/abstracts"
-  text="Abstracts"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-</div>
-{% endcapture %}
-
-{% include feature.html
-  image="images/background 1-1.png"
-  link="publications/articles"
-  title="Publications"
-  flip=false
-  text=text
-%}
-
-
-
-{%- comment -%} 4 — CURRENT PROJECTS {%- endcomment -%}
-
-{% capture text %}
-We investigate appearance and performance across a range of ongoing projects in vision science and cognition.
-
-{% include button.html
-  link="projects"
-  text="Explore current projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-
-{% include feature.html
-  image="images/RM illustration-2.jpg"
-  link="projects"
-  title="Current Projects"
-  flip=false
-  text=text
-%}
-
-
-
-{%- comment -%} 5 — NEWS / TALKS {%- endcomment -%}
-
-{% capture text %}
-Follow lab news, and conference presentations.
-
-{% include button.html
-  link="blog"
-  text="See news"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-
-{% include feature.html
-  image="images/background 2.png"
-  link="blog"
-  title="News"
-  flip=false
-  text=text
-%}
-
-
-
-{%- comment -%} 6 — CONTACT {%- endcomment -%}
-
-{% capture text %}
-Get in touch with us.
-
-{% include button.html
-  link="contact"
-  text="Contact us"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-
-{% include feature.html
-  image="images/background 1-1.png"
-  link="contact"
-  title="Contact"
-  flip=false
-  text=text
+To quantify visual appearance, we develop appearance-based methods that allow us to measure perception beyond typical categorizations. By decomposing objects into parts and quantifying deviations from veridical perception, we obtain detailed mappings between physical stimuli and visual appearance spaces, allowing for detailed accounts of visual experience. We frequently work with artists, investigating questions at the intersections of art, visual perception, and the functions of the human mind in general. A long-term goal is to better understand the interplay of different parts of the perceptual-cognitive machinery, and how basic perceptual and cognitive processes are related to thinking, reasoning, and behavior.
+"
 %}
