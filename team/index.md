@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 2
+  order: 1
 ---
 
 # TEAM
