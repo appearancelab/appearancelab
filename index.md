@@ -13,7 +13,7 @@ nav:
 <div style="text-align:center; margin-bottom:50px;">
   <img src="{{ 'images/logo_nobo.png' | relative_url }}" 
        alt="Psychophysics of Appearance Laboratory"
-       style="max-width:900px; width:100%; height:auto; border-radius:8px;">
+       style="width:550px; height:auto; border-radius:8px;">
 </div>
 
 <div style="max-width:900px; margin:0 auto; line-height:1.8; font-size:1.05rem;">
