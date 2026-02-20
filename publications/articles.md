@@ -6,6 +6,33 @@ nav_exclude: true
 
 # Articles
 
+## In Press
+
+Slaski, N., Sayim, B., & Kalénine, S. (in press).
+Thematic knowledge survives visual crowding and influences object identification.
+
+---
+
+## 2026
+
+Lukyanova, V., Ameln, J., Witten, J. L., Gutnikov, A., Freiberg, M., Sayim, B., & Harmening, W. M. (2026).
+<a href="https://jov.arvojournals.org/article.aspx?articleid=2811489" target="_blank">
+Sub-cone visual acuity can be achieved with less than 1 arcmin retinal slip
+</a>.
+<i>Journal of Vision, 26</i>(2), 7.
+
+---
+
+## 2025
+
+Sayim, B., & Rummens, K. (2025).
+<a href="https://www.sciencedirect.com/science/chapter/referencework/abs/pii/B9780323955041011959?via%3Dihub" target="_blank">
+Visual Crowding: A Fundamental Limit of Peripheral Vision, Word Identification and Reading
+</a>.
+In <i>Interactions with Neurobiology and Psychology</i>, International Encyclopedia of Language and Linguistics (3rd ed.).
+
+---
+
 ## 2024
 
 Alp, N., Lale, G., Saglam, C., & Sayim, B. (2024).
@@ -29,12 +56,6 @@ The radial–tangential anisotropy of numerosity estimation
 ---
 
 ## 2023
-
-Cui, J., Dandan, Y. R., & Jiang, G. (2023).
-<a href="https://www.sciencedirect.com/science/article/pii/S000169182300046X" target="_blank">
-Judging emoji by occupation: A case of emoji-based sarcasm interpretation
-</a>.
-<i>Acta Psychologica, 234</i>.
 
 Dandan, Y. R., Ji, L., Song, Y., & Sayim, B. (2023).
 <a href="https://link.springer.com/article/10.3758/s13414-022-02614-z" target="_blank">
