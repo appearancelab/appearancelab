@@ -6,61 +6,81 @@ nav_exclude: true
 
 # Abstracts
 
+## 2026
+
+Turkmen, Y. E., L-Miao, L., Harmening, W., & Sayim, B. (2026). *Beyond visual resolution: Redundancy masking as a limiting factor of foveal vision.* 48th European Conference on Visual Perception (ECVP), Bournemouth, UK.
+
+Slaski, N., Kalénine, S., & Sayim, B. (2026). *Action knowledge acquired through VR training influences identification of novel tools under visual crowding.* 48th European Conference on Visual Perception (ECVP), Bournemouth, UK.
+
+L-Miao, L., Turkmen, Y. E., & Sayim, B. (2026). Redundancy masking underlies underestimation and the radial-tangential anisotropy in numerosity perception. In *Proceedings of the 2026 GDR Vision Forum* (pp. 18–19).
+
+Sayim, B., Oztas, D. N., L-Miao, L., & Alp, N. (2026). Feature enhancement in peripheral vision explained by redundancy masking, density perception and the compression of visual space. In *Proceedings of the 2026 GDR Vision Forum* (pp. 20–21).
+
+Turkmen, Y. E., L-Miao, L., & Sayim, B. (2026). Disentangling redundancy masking and visual resolution in foveal vision. In *Proceedings of the 2026 GDR Vision Forum* (pp. 69–70).
+
+[Proceedings](https://forum-vision-26.sciencesconf.org/data/pages/GDRVision2026_Proceedings.pdf)
+
+---
+
 ## 2025
 
-Oztas, D., Alp, N., Li, M. & Sayim, B. (2025, June 1). Neural correlates of redundancy masking (poster). International Symposium on Brain and Cognitive Science (ISBCS) 2025, Istanbul, Turkey.
+Öztaş, D. N., Alp, N., L-Miao, L., & Sayim, B. (2025, June 1). *Neural correlates of redundancy masking* [Poster]. International Symposium on Brain and Cognitive Science (ISBCS) 2025, Istanbul, Turkey.
 
-Alp N, Öztas D, L-Miao L, Sayim B (2025). The neural signatures of redundancy masking investigated by EEG frequency tagging (talk). Vision Sciences Society, May 2025, St. Pete Beach, USA.
+Alp, N., Öztaş, D. N., L-Miao, L., & Sayim, B. (2025). *The neural signatures of redundancy masking investigated by EEG frequency tagging* [Talk]. Vision Sciences Society Annual Meeting, St. Pete Beach, USA.
 
-Gomes Tomaz Â., Lu Y, Levi D.M., Sayim B (2025). Situating Redundancy Masking in the visual pathways. Annual meeting of the Vision Sciences Society, May 2025, St. Pete Beach, USA.
+Gomes Tomaz, Â., Lu, Y., Levi, D. M., & Sayim, B. (2025). *Situating redundancy masking in the visual pathways.* Vision Sciences Society Annual Meeting, St. Pete Beach, USA.
 
-Sayim B, Koechli O, Melnik N (2025). Capturing appearance reveals illusory letters in visual crowding. Annual meeting of the Vision Sciences Society, May 2025, St. Pete Beach, USA.
+Sayim, B., Koechli, O., & Melnik, N. (2025). *Capturing appearance reveals illusory letters in visual crowding.* Vision Sciences Society Annual Meeting, St. Pete Beach, USA.
 
-Alp, N., Oztas, D., Li, M. & Sayim, B. (2025, February 7). Neural correlates of redundancy masking. Lake Ontario Visionary Establishment (LOVE Conference) 2025, Niagara Falls, Canada.
+Alp, N., Öztaş, D. N., L-Miao, L., & Sayim, B. (2025, February 7). *Neural correlates of redundancy masking.* Lake Ontario Visionary Establishment (LOVE Conference) 2025, Niagara Falls, Canada.
 
-L-Miao L, Harmening WH, Hansmann-Roth S, Sayim B (2025). Pooling models fail with optimal stimuli to reveal orientation averaging (talk). Vision Research Network (GDR Vision), Louvain-La- Neuve, Belgium.
+L-Miao, L., Harmening, W. M., Hansmann-Roth, S., & Sayim, B. (2025). *Pooling models fail with optimal stimuli to reveal orientation averaging* [Talk]. Vision Research Network (GDR Vision), Louvain-la-Neuve, Belgium.
 
-Slaski, N., Sayim, B., & Kalénine, S. (2025). Spatial and temporal constraints on visual processing of thematic and action relations between objects (talk). Vision Research Network (GDR Vision), Louvain-La-Neuve, Belgium.
+Slaski, N., Sayim, B., & Kalénine, S. (2025). *Spatial and temporal constraints on visual processing of thematic and action relations between objects* [Talk]. Vision Research Network (GDR Vision), Louvain-la-Neuve, Belgium.
 
+Slaski, N., Sayim, B., & Kalénine, S. (2025). *The influence of thematic relations on object identification under visual crowding* [Poster]. Workshop on CONCEPTS, ACTIONS, and OBJECTS: Functional and Neural Perspectives (CAOs), Rovereto, Italy.
+
+---
 
 ## 2024
 
-Tao, J., Desai, K., Sayim, B., Levi, D. M., & Gomes Tomaz, Â. Harnessing Convolutional Neural Networks (CNNs) to predict amblyopia from the appearance of isolated and crowded stimuli. Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS), Pittsburgh, USA, November 2024.
+Tao, J., Desai, K., Sayim, B., Levi, D. M., & Gomes Tomaz, Â. (2024). *Harnessing convolutional neural networks (CNNs) to predict amblyopia from the appearance of isolated and crowded stimuli.* Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS), Pittsburgh, USA, November 2024.
 
-Sayim B, Hansmann-Roth (2024). Redundancy masking in segmented parts: How grouping determines the units of information compression in the visual system. 9th International Conference on Spatial Cognition, Rome, September.
+Sayim, B., & Hansmann-Roth, S. (2024). *Redundancy masking in segmented parts: How grouping determines the units of information compression in the visual system.* 9th International Conference on Spatial Cognition, Rome, Italy, September 2024.
 
-Desai, K., Sayim, B., Levi, D. M., & Gomes Tomaz, Â. Harnessing convolutional neural networks (CNNs): Predicting amblyopia from the appearance of isolated and crowded stimuli. Bay Area Vision Research Day (BAVRD), Berkeley, USA, September 2024.
+Desai, K., Sayim, B., Levi, D. M., & Gomes Tomaz, Â. (2024). *Harnessing convolutional neural networks (CNNs): Predicting amblyopia from the appearance of isolated and crowded stimuli.* Bay Area Vision Research Day (BAVRD), Berkeley, USA, September 2024.
 
-Lu, Y., Gomes Tomaz, Â., Levi, D. M., & Sayim, B. The locus of redundancy masking. Bay Area Vision Research Day (BAVRD), Berkeley, USA, September 2024.
+Lu, Y., Gomes Tomaz, Â., Levi, D. M., & Sayim, B. (2024). *The locus of redundancy masking.* Bay Area Vision Research Day (BAVRD), Berkeley, USA, September 2024.
 
-Tao, J., Gomes Tomaz, Â., Kwon, S., Levi, D. M., Harmening, W. M., & Sayim, B. The appearance of isolated and crowded stimuli in amblyopia. Bay Area Vision Research Day (BAVRD), Berkeley, USA, September 2024.
+Tao, J., Gomes Tomaz, Â., Kwon, S., Levi, D. M., Harmening, W. M., & Sayim, B. (2024). *The appearance of isolated and crowded stimuli in amblyopia.* Bay Area Vision Research Day (BAVRD), Berkeley, USA, September 2024.
 
-Dandan YR, Fang F, Sayim B (2024). The foveal input bias in categorical processing of emotion in ensemble perception. Chinese Neuroscience Society, September, Suzhou, China.
+Dandan, Y. R., Fang, F., & Sayim, B. (2024). *The foveal input bias in categorical processing of emotion in ensemble perception.* Chinese Neuroscience Society, Suzhou, China, September 2024.
 
-Sayim B, Gomes Tomaz Â, Melnik N (2024). The consistency of peripheral appearance. 46th European Conference on Visual Perception (ECVP), Aberdeen, Scotland, August 2024, 455,188.
+Sayim, B., Gomes Tomaz, Â., & Melnik, N. (2024). The consistency of peripheral appearance. 46th European Conference on Visual Perception (ECVP), Aberdeen, Scotland, August 2024. Abstract 455.
 
-Slaski, N., Kalénine, S., & Sayim, B. (2024). Thematic relations between objects get through the bottleneck of crowding. 46th European Conference on Visual Perception, Aberdeen, Scotland. Abstract 60, page 29.
+Slaski, N., Kalénine, S., & Sayim, B. (2024). Thematic relations between objects get through the bottleneck of crowding. 46th European Conference on Visual Perception (ECVP), Aberdeen, Scotland. Abstract 60.
 
-Karagül, Z., Cancan Kazan, Sayim, B., Alp, N. (2024). Search asymmetries for dynamic faces, European Conference on Visual Perception (ECVP), Aberdeen, UK. Abstract 371, 150-151.
+Karagül, Z., Cancan Kazan, Sayim, B., & Alp, N. (2024). Search asymmetries for dynamic faces. 46th European Conference on Visual Perception (ECVP), Aberdeen, UK. Abstract 371.
 
-Sayim B, Buzzo CM (2024). Aesthetic experiences across life. Visual Science of Art Conference (VSAC), Aberdeen, Scotland, August 2024.
+Sayim, B., & Buzzo, C. M. (2024). *Aesthetic experiences across life.* Visual Science of Art Conference (VSAC), Aberdeen, Scotland, August 2024.
 
-Sayim B., Oztas D., L-Miao L., Alp N (2024). No conscious seeing without attention: How redundancy masking and the compression of visual information limit conscious vision. 27th annual meeting of the Association for the Scientific Study of Consciousness (ASSC). 375, P-4-8.
+Sayim, B., Öztaş, D. N., L-Miao, L., & Alp, N. (2024). *No conscious seeing without attention: How redundancy masking and the compression of visual information limit conscious vision.* 27th Annual Meeting of the Association for the Scientific Study of Consciousness (ASSC), Abstract 375, P-4-8.
 
-L-Miao L, Oztas DN, Alp N, Sayim B (2024) Redundancy masking and the limits of conscious vision. 31st Conference of the European Society for Philosophy and Psychology.
+L-Miao, L., Öztaş, D. N., Alp, N., & Sayim, B. (2024). *Redundancy masking and the limits of conscious vision.* 31st Conference of the European Society for Philosophy and Psychology (ESPP).
 
-Gomes Tomaz, Â., Kwon, S., Levi, D. M., Harmening, W. M., & Sayim, B. Crowding and visual appearance in Amblyopia. Vision Sciences Society Annual Meeting, Florida, USA, May 2024.
+Gomes Tomaz, Â., Kwon, S., Levi, D. M., Harmening, W. M., & Sayim, B. (2024). *Crowding and visual appearance in amblyopia.* Vision Sciences Society Annual Meeting, St. Pete Beach, USA, May 2024.
 
-Sayim B., Öztas D., L-Miao L., Alp N (2024). Seeing less but seeing better: Information loss and accuracy gain in redundancy masking. Vision Sciences Society Annual Meeting, St Pete Beach, USA.
+Sayim, B., Öztaş, D. N., L-Miao, L., & Alp, N. (2024). *Seeing less but seeing better: Information loss and accuracy gain in redundancy masking.* Vision Sciences Society Annual Meeting, St. Pete Beach, USA, May 2024.
 
-L-Miao L, Hansmann-Roth S, Harmening WM, Sayim B (2024) No pooling, no averaging: How varying the number of identical Gabors modulates orientation discrimination in the periphery. Vision Sciences Society Annual Meeting, St Pete Beach, USA.
+L-Miao, L., Hansmann-Roth, S., Harmening, W. M., & Sayim, B. (2024). *No pooling, no averaging: How varying the number of identical Gabors modulates orientation discrimination in the periphery.* Vision Sciences Society Annual Meeting, St. Pete Beach, USA, May 2024.
 
-Lukyanova V, Ameln J, Gutnikov A, Witten JL, Sayim B, Harmening WM (2024) Minimal retinal slip is sufficient for peak visual acuity in the fovea. Vision Sciences Society Annual Meeting, St Pete Beach, USA.
+Lukyanova, V., Ameln, J., Gutnikov, A., Witten, J. L., Sayim, B., & Harmening, W. M. (2024). *Minimal retinal slip is sufficient for peak visual acuity in the fovea.* Vision Sciences Society Annual Meeting, St. Pete Beach, USA, May 2024.
 
-Sayim B., Öztas D., L-Miao L., Alp N (2024). Redundancy masking and advantages of information compression in visual perception. Vision Research Network (GDR Vision), Grenoble, France.
+Sayim, B., Öztaş, D. N., L-Miao, L., & Alp, N. (2024). *Redundancy masking and advantages of information compression in visual perception.* Vision Research Network (GDR Vision), Grenoble, France.
 
-Slaski, N., Sayim, B., & Kalénine, S. (2024, February 8–9). The effect of thematic relations on visual crowding of familiar objects. Vision Research Network (GDR Vision), Grenoble, France.
+Slaski, N., Sayim, B., & Kalénine, S. (2024, February 8–9). *The effect of thematic relations on visual crowding of familiar objects.* Vision Research Network (GDR Vision), Grenoble, France.
 
+---
 
 ## 2023
 
