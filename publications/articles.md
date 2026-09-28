@@ -6,14 +6,38 @@ nav_exclude: true
 
 # Articles
 
-## In Press
+## Under Review
 
-Slaski, N., Sayim, B., & Kalénine, S. (in press).
-Thematic knowledge survives visual crowding and influences object identification.
+L-Miao, L., Reynvoet, B., & Sayim, B. (under review).
+Spatial anisotropy in small numerosity perception in peripheral vision.
 
 ---
 
 ## 2026
+
+Slaski, N., Sayim, B., & Kalénine, S. (2026).
+<a href="https://doi.org/10.1007/s00426-026-02247-z" target="_blank">
+Thematic knowledge survives visual crowding and influences object identification
+</a>.
+<i>Psychological Research, 90</i>(2), 48.
+
+L-Miao, L., Öztaş, D. N., Alp, N., & Sayim, B. (2026).
+<a href="https://doi.org/10.64898/2026.09.07.749904" target="_blank">
+Compression of redundant visual information improves feature discrimination in human vision
+</a>.
+<i>bioRxiv</i>.
+
+L-Miao, L., Dandan, Y. R., Chen, C., Reynvoet, B., & Sayim, B. (2026).
+<a href="https://doi.org/10.1016/j.concog.2026.104088" target="_blank">
+Information compression trumps accuracy when viewing groups of faces
+</a>.
+<i>Consciousness and Cognition, 143</i>, 104088.
+
+Dandan, Y. R., L-Miao, L., & Sayim, B. (2026).
+<a href="https://doi.org/10.1167/jov.26.7.15" target="_blank">
+Spatial anisotropy in crowding and ensemble perception
+</a>.
+<i>Journal of Vision, 26</i>(7), 15.
 
 Lukyanova, V., Ameln, J., Witten, J. L., Gutnikov, A., Freiberg, M., Sayim, B., & Harmening, W. M. (2026).
 <a href="https://jov.arvojournals.org/article.aspx?articleid=2811489" target="_blank">
@@ -24,6 +48,12 @@ Sub-cone visual acuity can be achieved with less than 1 arcmin retinal slip
 ---
 
 ## 2025
+
+Öztaş, D. N., L-Miao, L., Sayim, B., & Alp, N. (2025).
+<a href="https://doi.org/10.1101/2025.05.30.657088" target="_blank">
+Redundancy masking and the compression of information in the brain
+</a>.
+<i>bioRxiv</i>.
 
 Sayim, B., & Rummens, K. (2025).
 <a href="https://www.sciencedirect.com/science/chapter/referencework/abs/pii/B9780323955041011959?via%3Dihub" target="_blank">
@@ -48,10 +78,10 @@ Attention in redundancy masking
 <i>Attention, Perception, & Psychophysics, 86</i>, 1–14.
 
 L-Miao, L., Reynvoet, B., & Sayim, B. (2024).
-<a href="https://pubmed.ncbi.nlm.nih.gov/39046720/" target="_blank">
-The radial–tangential anisotropy of numerosity estimation
+<a href="https://doi.org/10.1167/jov.24.7.15" target="_blank">
+The radial–tangential anisotropy of numerosity perception
 </a>.
-<i>Journal of Vision, 24</i>(7), 1–20.
+<i>Journal of Vision, 24</i>(7), 15.
 
 ---
 
