@@ -15,6 +15,24 @@ Spatial anisotropy in small numerosity perception in peripheral vision.
 
 ## 2026
 
+Gomes Tomaz, Â., Harmening, W. M., Levi, D. M., & Sayim, B. (2026).
+<a href="https://doi.org/10.1016/j.visres.2026.108873" target="_blank">
+Impact of crowding on visual appearance and performance in amblyopia
+</a>.
+<i>Vision Research, 247</i>, 108873.
+
+Yildirim-Keles, F. Z., Aschwanden, R., & Sayim, B. (2026).
+<a href="https://doi.org/10.1016/j.isci.2026.116437" target="_blank">
+Improvement of peripheral visual discrimination through mental imagery
+</a>.
+<i>iScience, 29</i>(7), 116437.
+
+Hansmann-Roth, S., Harmening, W. M., & Sayim, B. (2026).
+<a href="https://doi.org/10.1016/j.cognition.2026.106507" target="_blank">
+Compression of visual information in redundancy masking follows grouping and segmentation
+</a>.
+<i>Cognition, 272</i>, 106507.
+
 Slaski, N., Sayim, B., & Kalénine, S. (2026).
 <a href="https://doi.org/10.1007/s00426-026-02247-z" target="_blank">
 Thematic knowledge survives visual crowding and influences object identification
