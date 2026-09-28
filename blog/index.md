@@ -12,7 +12,6 @@ PALab Talks is our invited speaker series, bringing researchers to the Psychophy
 
 ---
 
-**25–29/08/2024: We presented at ECVP 2024!**
 
 **25–29/08/2024: We presented at ECVP 2024!**
 
