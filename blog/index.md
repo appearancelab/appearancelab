@@ -3,10 +3,16 @@ title: News
 permalink: /blog/
 nav:
   order: 4
-  children:
-    - title: PALab Talks
-      url: /blog/palab-talks/
 ---
+## PALab Talks
+
+PALab Talks is our invited speaker series, bringing researchers to the Psychophysics of Appearance Laboratory to share and discuss their latest work.
+
+{% include button.html text="Explore PALab Talks" link="/blog/palab-talks/" %}
+
+---
+
+**25–29/08/2024: We presented at ECVP 2024!**
 
 **25–29/08/2024: We presented at ECVP 2024!**
 
