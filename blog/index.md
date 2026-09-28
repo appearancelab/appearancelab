@@ -27,6 +27,14 @@ Title: *Action knowledge acquired through VR training influences identification 
 
 ---
 
+**2026: New publications from the lab**
+
+Several new papers from PALab were published in *Psychological Research*, *Journal of Vision*, *Consciousness and Cognition*, *Cognition*, *iScience*, and *Vision Research*, covering visual crowding, redundancy masking, numerosity perception, mental imagery, and amblyopia.
+
+{% include button.html text="View publications" link="/publications/articles/" %}
+
+---
+
 **15–19/05/2026: We presented at VSS 2026!**
 
 We presented new work at the Vision Sciences Society Annual Meeting in St. Pete Beach, Florida.
@@ -114,12 +122,6 @@ Title: *Pooling models fail with optimal stimuli to reveal orientation averaging
 
 **Nicolas's Presentation**  
 Title: *Spatial and temporal constraints on visual processing of thematic and action relations between objects*
-
----
-
-**02–05/07/2024: Miao presented at ESPP 2024!**
-
-Title: *Redundancy masking and the limits of conscious vision*
 
 ---
 
