@@ -12,6 +12,22 @@ Turkmen, Y. E., L-Miao, L., Harmening, W., & Sayim, B. (2026). *Beyond visual re
 
 Slaski, N., Kalénine, S., & Sayim, B. (2026). *Action knowledge acquired through VR training influences identification of novel tools under visual crowding.* 48th European Conference on Visual Perception (ECVP), Bournemouth, UK.
 
+Sayim, B., Reynvoet, B., & L-Miao, L. (2026). *Anisotropy of small-number enumeration in peripheral vision* [Talk]. 48th European Conference on Visual Perception (ECVP), Bournemouth, UK.
+
+Alp, N., Karagül, Z., & Sayim, B. (2026). *Synchrony perception is shaped by the similarity between foveal and peripheral representations* [Poster]. Vision Sciences Society Annual Meeting, St. Pete Beach, FL, USA.
+
+Karagül, Z., Sayim, B., & Alp, N. (2026). *Synchrony perception of dynamic faces is limited by their eccentricity – not their distance* [Poster]. Vision Sciences Society Annual Meeting, St. Pete Beach, FL, USA.
+
+Danneels, A., Gomes Tomaz, Â., Levi, D. M., & Sayim, B. (2026). *Visual field asymmetries in redundancy masking in amblyopia* [Poster]. Vision Sciences Society Annual Meeting, St. Pete Beach, FL, USA.
+
+Gomes Tomaz, Â., Sayim, B., & Levi, D. M. (2026). *Redundancy masking across eccentricities in individuals with amblyopia and controls* [Poster]. Vision Sciences Society Annual Meeting, St. Pete Beach, FL, USA.
+
+Sayim, B., Lui, T., Levi, D. M., & Gomes Tomaz, Â. (2026). *Atypical visual field asymmetries in redundancy masking explained by magnitude of positional noise: Evidence from amblyopia* [Poster]. Vision Sciences Society Annual Meeting, St. Pete Beach, FL, USA.
+
+Öztaş, D. N., L-Miao, L., Alp, N., & Sayim, B. (2026). *Interactions of perceived number, density, and compression of visual space explain improved feature discrimination in redundancy masking* [Poster]. Vision Sciences Society Annual Meeting, St. Pete Beach, FL, USA.
+
+L-Miao, L., Turkmen, Y. E., & Sayim, B. (2026). *Redundancy masking explains underestimation and the radial-tangential anisotropy of numerosity perception* [Poster]. Vision Sciences Society Annual Meeting, St. Pete Beach, FL, USA.
+
 L-Miao, L., Turkmen, Y. E., & Sayim, B. (2026). Redundancy masking underlies underestimation and the radial-tangential anisotropy in numerosity perception. In *Proceedings of the 2026 GDR Vision Forum* (pp. 18–19).
 
 Sayim, B., Oztas, D. N., L-Miao, L., & Alp, N. (2026). Feature enhancement in peripheral vision explained by redundancy masking, density perception and the compression of visual space. In *Proceedings of the 2026 GDR Vision Forum* (pp. 20–21).
@@ -21,6 +37,7 @@ Turkmen, Y. E., L-Miao, L., & Sayim, B. (2026). Disentangling redundancy masking
 [Proceedings](https://forum-vision-26.sciencesconf.org/data/pages/GDRVision2026_Proceedings.pdf)
 
 ---
+
 
 ## 2025
 
@@ -33,6 +50,8 @@ Gomes Tomaz, Â., Lu, Y., Levi, D. M., & Sayim, B. (2025). *Situating redundancy
 Sayim, B., Koechli, O., & Melnik, N. (2025). *Capturing appearance reveals illusory letters in visual crowding.* Vision Sciences Society Annual Meeting, St. Pete Beach, USA.
 
 Alp, N., Öztaş, D. N., L-Miao, L., & Sayim, B. (2025, February 7). *Neural correlates of redundancy masking.* Lake Ontario Visionary Establishment (LOVE Conference) 2025, Niagara Falls, Canada.
+
+Desai, K., Sayim, B., Levi, D. M., & Gomes Tomaz, Â. (2025). *Predicting amblyopia and crowding from appearance captures* [Poster]. Vision Sciences Society Annual Meeting, St. Pete Beach, FL, USA.
 
 L-Miao, L., Harmening, W. M., Hansmann-Roth, S., & Sayim, B. (2025). *Pooling models fail with optimal stimuli to reveal orientation averaging* [Talk]. Vision Research Network (GDR Vision), Louvain-la-Neuve, Belgium.
 
