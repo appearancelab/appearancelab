@@ -1,11 +1,10 @@
 ---
-name: Yunus Emre Türkmen
+name: Yunus Emre Turkmen
 image: images/profile_emre.jpg
 role: phd
 order: 4
 affiliation:
 links:
   email: yunus.turkmen@ens.psl.eu
-  orcid: 0009-0003-1249-4394
 ---
 Yunus Emre Türkmen is a PhD student at PALAB. He is interested in the underlying mechanisms of visual perception and vision processes. He is currently investigating the phenomenon of redundancy masking. He received his master's degree in psychology from Middle East Technical University.
