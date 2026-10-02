@@ -97,10 +97,10 @@ nav:
 <div class="project-row">
 
   <div class="project-text">
-    <h2>Redundancy Masking in Foveal Vision</h2>
+    <h2>Foveal Redundancy Masking and Alternative Measures Beyond Enumeration</h2>
 
     <p>
-    Redundancy masking is a reduction in the perceived number of repeated items and has primarily been studied in peripheral vision. In this project, we investigate whether redundancy masking also limits perception at the fovea, where visual resolution is highest, and whether it can be dissociated from basic resolution limits. By manipulating stimulus properties and comparing redundancy masking with measures of visual resolution, we aim to determine when visual information is lost even though individual elements can still be resolved. This work examines whether redundancy masking reflects a more general mechanism of visual information compression rather than simply a consequence of poor spatial resolution.
+    Redundancy masking refers to a compression of visual information in displays containing repetitive items. It has so far been well characterized in peripheral vision; however, it remains unclear whether it also occurs in foveal vision. More recently, we have aimed to develop alternative ways of measuring redundancy masking beyond explicit number reports. We explore appearance-based and perceptual measures that can reveal information loss.  
     </p>
   </div>
 
