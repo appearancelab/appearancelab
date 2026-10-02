@@ -1,7 +1,7 @@
 ---
 name: Bilge Kumdakci
 image: images/bilge_kumdakci.jpg
-role: intern
+role: phd
 order: 5
 affiliation: 
 links:
