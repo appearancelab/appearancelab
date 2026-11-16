@@ -54,11 +54,6 @@ nav:
     <td>Visual studies, Art history, Image perception</td>
   </tr>
   <tr>
-    <td>Nihan Alp</td>
-    <td>Sabanci University, Istanbul, Turkey</td>
-    <td>EEG, Frequency tagging, Redundancy masking</td>
-  </tr>
-  <tr>
     <td>Wolf Harmening</td>
     <td>University of Bonn, Germany</td>
     <td>Adaptive optics, Appearance, Visual acuity</td>
