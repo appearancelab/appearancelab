@@ -105,7 +105,7 @@ nav:
   </div>
 
   <div class="project-figure">
-    <div class="project-placeholder">Figure coming soon</div>
+    <img src="{{ '/images/foveal_rm_clean.png' | relative_url }}" alt="Foveal redundancy masking">
   </div>
 
 </div>
