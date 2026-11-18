@@ -1,4 +1,3 @@
-
 ---
 name: Nihan Alp
 image: images/nihan_alp.jpg
